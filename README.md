@@ -30,6 +30,6 @@ pass a boolean value ``` isSelected  ``` to it  .so the component is toggled , a
 
 ### Liscence  
  MIT
- # Author 
- # Albin Sabu
+ 
+ Author  : Albin Sabu 
 
