@@ -6,7 +6,7 @@
 ```bash 
 npm install toggle-beautify
 ```
-### v1.0.5
+### v1.0.7
 
 ## usage
 
