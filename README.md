@@ -1,4 +1,7 @@
 # Toggle-Beautify is a npm package for  react toggle component
+
+![npm](https://img.shields.io/npm/dw/toggle-beautify)
+
 ![tg1](https://github.com/user-attachments/assets/51887603-0a75-4ced-ac85-ea3b7a84c717)
 
 ### Intallation
